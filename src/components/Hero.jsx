@@ -15,10 +15,12 @@ const Hero = () => {
         </h1>
 
         <p className="mt-8 max-w-xl text-lg leading-8">
-          Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem
-          cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat
-          aliqua. Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
-          qui lorem cupidatat commodo.
+          Discover a new way to furnish your world. Our furniture store is a
+          haven of inspiration, where each piece is a testament to quality,
+          aesthetics, and your unique taste.We're rewriting the script on
+          furniture shopping. Join us in embracing a revolution of choices,
+          where every piece tells a story and your home becomes a reflection of
+          your distinct style."
         </p>
         <div className="mt-10 ">
           <Link to="products" className="btn btn-primary ">
