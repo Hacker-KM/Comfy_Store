@@ -1,4 +1,4 @@
-import { FormInput, SubmitBtn } from "../components";
+import { FormInput, Submitbtn } from "../components";
 import { Form, redirect, Link } from "react-router-dom";
 
 import { customFetch } from "../utils";
@@ -32,7 +32,7 @@ const Register = () => {
         <FormInput type="email" label="email" name="email" />
         <FormInput type="password" label="password" name="password" />
         <div className="mt-4">
-          <SubmitBtn text="register" />
+          <Submitbtn text="register" />
         </div>
 
         <p className="text-center">

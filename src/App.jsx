@@ -14,7 +14,10 @@ import {
 } from "./pages";
 
 import { ErrorElement } from "./components";
+import { action as loginAction } from "./pages/Login";
+import { action as registerAction } from "./pages/Register";
 
+import { store } from "./store";
 
 import { loader as landingLoader } from "./pages/Landing";
 import { loader as singleProductLoader } from "./pages/SingleProduct";
@@ -26,6 +29,7 @@ const router = createBrowserRouter([
     element: <HomeLayout />,
     errorElement: <Error />,
     children: [
+      
       {
         index: true,
         element: <Landing />,
@@ -63,11 +67,13 @@ const router = createBrowserRouter([
     path: "/login",
     element: <Login />,
     errorElement: <Error />,
+    action: loginAction(store),
   },
   {
     path: "/register",
     element: <Register />,
     errorElement: <Error />,
+    action: registerAction,
   },
 ]);
 
