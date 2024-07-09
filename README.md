@@ -1,7 +1,9 @@
 **Overview**
+
 Comfy Sloth is a furniture e-commerce store designed to provide a seamless shopping experience for customers looking to purchase high-quality, comfortable furniture. The platform will feature a wide range of furniture products, including sofas, chairs, tables, beds, and more. The goal is to create an intuitive, visually appealing, and fully functional online store that makes it easy for users to browse, search, and purchase furniture.
 
 **Objectives**
+
 User-Friendly Interface: Develop an intuitive and attractive interface for easy navigation and shopping.
 Product Showcase: Highlight a diverse range of furniture products with detailed descriptions, images, and specifications.
 Secure Transactions: Implement secure payment gateways to ensure safe transactions.
@@ -11,6 +13,7 @@ Customer Accounts: Allow users to create accounts to manage their orders, wishli
 Reviews and Ratings: Enable customers to leave reviews and ratings for products to build trust and provide feedback.
 
 **Features**
+
 Homepage: A welcoming homepage with featured products, promotions, and navigation links.
 Product Listings: Pages that display all available furniture products with options to sort and filter by category, price, and more.
 Product Details: Detailed pages for each product with images, descriptions, specifications, reviews, and related products.
