@@ -14,7 +14,7 @@ Comfy Sloth is a furniture e-commerce store designed to provide a seamless shopp
 
 **Features**
 
--Homepage: A welcoming homepage with featured products, promotions, and navigation links.
+- Homepage: A welcoming homepage with featured products, promotions, and navigation links.
 - Product Listings: Pages that display all available furniture products with options to sort and filter by category, price, and more.
 - Product Details: Detailed pages for each product with images, descriptions, specifications, reviews, and related products.
 - Shopping Cart: A shopping cart feature that allows users to add, remove, and update products before proceeding to checkout.
